@@ -43,6 +43,7 @@ p{
     float: left;
     background-color: white;
     padding-left: 30px;
+    color: #1f2c39;
 
 }
 
@@ -52,6 +53,7 @@ p{
     border-right: solid 3px #03246c ;
     float: left;
     background-color: white;
+    color: #03246c;
 
 }
 
@@ -61,6 +63,7 @@ p{
     border-right: solid 3px #028090;
     float: left;
     background-color: white;
+    color: #028090;
 }
 
 .block4{
@@ -68,6 +71,7 @@ p{
     border-right: solid 3px #28aeaf;
     float: left;
     background-color: white;
+    color: #28aeaf;
 }
 span{
     display: block;
@@ -118,17 +122,4 @@ span{
     text-align: center;
     font-size: 20px;
     line-height: 40px;
-}
-
-.block1 span{
-    color: #1f2c39;
-}
-.block2 span{
-    color: #03246c;
-}
-.block3 span{
-    color: #028090;
-}
-.block4 span{
-    color: #28aeaf;
 }
